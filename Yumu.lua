@@ -1233,7 +1233,7 @@ EmoteGroup:AddToggle('EnableEmoteSpeed', {
 
 EmoteGroup:AddSlider('EmoteSpeedSlider', {
     Text = 'Emote',
-    Default = 250,
+    Default = 1,
     Min = 1,
     Max = 1000,
     Rounding = 0,
